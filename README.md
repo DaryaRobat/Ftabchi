@@ -1,5 +1,4 @@
-<h1><p align="center"> AdvertiserBot 🖕😂 Based on Old Tg
-<h2><p align="center">🔅".دانش بدون تکامل اخلاقی خطرناک و نابود کننده است"🔅
+
 <hr>
 <h3> <strong>🌐 Installation </strong>
 <h6>(Inter line by line in terminal)</h6>
